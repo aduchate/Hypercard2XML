@@ -1,7 +1,7 @@
 Hypercard2XML
 =============
 
-A simple blazing fast groovy script to export Hypercard Stacks Content to XML
+A simple blazing fast groovy script to export Hypercard Stacks content to XML
 
 based on http://hypercard.org/hypercard_file_format.php
 
